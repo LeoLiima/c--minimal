@@ -53,4 +53,5 @@ DELETE /horarios/{id}: Deleta um horário específico.
 <br>
 
 👨‍💻 Autor
+Desenvolvido por Aldo Junio Souza Brandão & Leonardo Ribeiro Gonzaga de Lima.
 
