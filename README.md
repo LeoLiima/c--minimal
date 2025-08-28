@@ -2,8 +2,6 @@
 
 > API RESTful para gerenciar o cadastro de monitores acadêmicos e seus respectivos horários de atendimento.
 
-![Status do Projeto](https://img.shields.io/badge/status-concluído-green)
-
 <br>
 
 ## 📝 Descrição
